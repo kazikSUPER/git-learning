@@ -149,3 +149,7 @@ It`s me, Babay Volohatyu, and I just`ve finished git-learning course to make thi
 My name is Sophia and I really like this course!!
 
 ---
+
+## Hi!
+
+I'm Vitaliy Kazimir and I'm very excited to learn web-technologies)
