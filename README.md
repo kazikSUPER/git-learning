@@ -148,20 +148,8 @@ It`s me, Babay Volohatyu, and I just`ve finished git-learning course to make thi
 
 My name is Sophia and I really like this course!!
 
-<<<<<<< HEAD
 ---
 
 ## Hi!
 
 I'm Vitaliy Kazimir and I'm very excited to learn web-technologies)
-=======
-## Hello
-
-My name is Kirill and I would like to learn git
-
----
-
-## Hello everyone!
-
-My name is Andrew! I love my university very much and I love drinking beer even more!
->>>>>>> 3ed2ee0d9fe46080272c6168ae9f3834a0196343
